@@ -1,0 +1,15 @@
+theme: jekyll-theme-cayman
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      title: "Noether Networks: meta-learning useful conserved quantities"
+      authors: "Ferran Alet*<sup>1</sup>, Dylan Doblar*<sup>1</sup>, Allan Zhou<sup>2</sup>, Joshua B. Tenenbaum<sup>1</sup>, Kenji Kawaguchi<sup>3</sup>, Chelsea Finn<sup>2</sup>"
+      affiliations: "<sup>1</sup>MIT, <sup>2</sup>Stanford University, <sup>3</sup>National University of Singapore; *Equal contribution"
+      venue: "NeurIPS 2021; Workshop on Machine Learning and the Physical Sciences at NeurIPS 2021"
+      paper-url: "/noether-networks/noether_networks_neurips_2021_CR.pdf"
+      workshop-paper-url: "/noether-networks/noether_networks_neurips_ml4phys_2021_CR.pdf"
+      poster-url: "/noether-networks/noether_networks_neurips_2021_poster.pdf"
+      include-footer: false
